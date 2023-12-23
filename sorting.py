@@ -105,3 +105,5 @@ if __name__ == '__main__':
     print(f"All extensions: {scan.extensions}")
     print(f"Unknown extensions: {scan.unknown}")
     print(f"Folder: {scan.folders}")
+
+    
